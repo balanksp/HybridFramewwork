@@ -14,7 +14,7 @@ import java.util.Random;
 public class JavaUtiltity {
 
 	/**
-	 * this method is uaes to genrate random numbers
+	 * this method is use to genrate random numbers
 	 * 
 	 * @param limit
 	 * 
